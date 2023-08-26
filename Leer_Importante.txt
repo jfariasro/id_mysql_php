@@ -1,0 +1,1 @@
+Recuerda que primero debes crear la base de datos, puedes hacerlo importando el archivo prueba.sql
